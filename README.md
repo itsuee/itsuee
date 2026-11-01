@@ -46,6 +46,28 @@ Saat ini saya sedang menjelajahi dunia pemrograman, pengembangan perangkat lunak
 - 💻 Menikmati proses membangun sesuatu dari nol.
 - 🔍 Kesalahan dalam kode adalah bagian dari proses belajar.
 
+<h2 align="center">📊 Statistik GitHub</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+</p>
+
+<h2 align="center">🔥 Aktivitas Kontribusi</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true"
+    width="500"
+  />
+</p>
+
 ## 🤝 Mari Terhubung!
 
 - 📸 Instagram: itsu.edits
