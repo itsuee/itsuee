@@ -1,4 +1,7 @@
 # 👋 Halo, Saya M. Izzam Mursyidi!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Halo%2C+Selamat+Datang+di+GitHub+Saya!;Mahasiswa+Informatika+UM+Surabaya;Sedang+Belajar+Python%2C+HTML%2C+CSS+%26+JavaScript;Terus+Belajar%2C+Terus+Berkembang!" />
+</p>
 
 ### 💻 Mahasiswa Informatika | Calon Pengembang Perangkat Lunak
 
