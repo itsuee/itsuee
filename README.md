@@ -50,11 +50,11 @@ Saat ini saya sedang menjelajahi dunia pemrograman, pengembangan perangkat lunak
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=itsuee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsuee&layout=compact&theme=tokyonight&hide_border=true"
     height="165"
   />
 </p>
@@ -63,7 +63,7 @@ Saat ini saya sedang menjelajahi dunia pemrograman, pengembangan perangkat lunak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=itsuee&theme=tokyonight&hide_border=true"
     width="500"
   />
 </p>
